@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Sacramento" serif;
+  font-size: 1.2em;
+}
+  .top-container {
+    background-color: #D6E5FA;
+    position: relative;
+    padding-top: 100px;
+  }
+  .middle-container {
+    background-color: none;
+    postion: relative;
+  }
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 10px;
+  }
+
+  .programmer {
+    font-size: 2.20rem;
+  }
+
+  h1 {
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento';
+    color: #66BFBF;
+    font-size: 80px;
+  }
+  h2 {
+    font-family:'san-serif';
+    color: #66BFBF;
+    font-weight: normal;
+  }
+  .footer-link {
+    color: white;
+    font-family: sans-serif;
+    margin: 10px 20px;
+  }
+
+  h3 {
+    font-family: 'Sacramento'
+    color: #11999E;
+  }
+  .damilare-profile {
+    width:20%;
+    border-radius: 150px;
+    margin-top: 20px;
+  }
+  p {
+    color: #40514E;
+  }
+
+ .bottom-cloud {
+   position: absolute;
+   left: 100px;
+   bottom: 300px;
+ }
+
+ .Top-cloud {
+   position: absolute;
+   right: 200px;
+   top: 50px;
+ }
+  hr {
+    border-style: dotted none none none;
+    border-color: #FF6363;
+    border-width: 5px;
+    width: 30%;
+  }
+  .computer {
+    width: 25%;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    padding-bottom: 100px;
+  }
+  .Analysis {
+    width: 20%;
+    border-radius: 100px;
+    float: right;
+    margin-left: 10px;
+  }
+  .btn {
+    background-color: #219F94;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 5%;
+    margin: 20px auto 30px auto;
+    opacity: 0.9;
+  }
+  .btn:hover {
+    opacity: 0.5;
+  }
+  .contact-me {
+    padding-bottom: 50px;
+  }
+}
